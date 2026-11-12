@@ -1,0 +1,13 @@
+Products inserted: 3
+Find A200: Mouse
+Electronics: ['A100', 'A200']
+Price 5 to 20: ['A100', 'B200']
+Low stock before changes: [(3, 'B200'), (6, 'A200')]
+Low stock after restock: [(6, 'A200')]
+Price 5 to 20 after sale: ['A200', 'B200']
+Sale category: ['A200']
+Deleted A100: None
+Duplicate rejected: SKU A200 already exists
+Invalid quantity rejected: quantity must be a nonnegative integer
+Empty price search: []
+Demo checks passed.

@@ -1,0 +1,36 @@
+test_forced_collisions (__main__.TestHashTable.test_forced_collisions) ... ok
+test_insert_replace_and_none (__main__.TestHashTable.test_insert_replace_and_none) ... ok
+test_invalid_configuration (__main__.TestHashTable.test_invalid_configuration) ... ok
+test_missing_delete (__main__.TestHashTable.test_missing_delete) ... ok
+test_resize_preserves_records (__main__.TestHashTable.test_resize_preserves_records) ... ok
+test_category_move_and_cleanup (__main__.TestInventoryManager.test_category_move_and_cleanup) ... ok
+test_delete_cleans_indexes (__main__.TestInventoryManager.test_delete_cleans_indexes) ... ok
+test_duplicate_rejected (__main__.TestInventoryManager.test_duplicate_rejected) ... ok
+test_empty_inventory (__main__.TestInventoryManager.test_empty_inventory) ... ok
+test_heap_compaction (__main__.TestInventoryManager.test_heap_compaction) ... ok
+test_immutable_product (__main__.TestInventoryManager.test_immutable_product) ... ok
+test_insert_and_find (__main__.TestInventoryManager.test_insert_and_find) ... ok
+test_invalid_category_preserves_index (__main__.TestInventoryManager.test_invalid_category_preserves_index) ... ok
+test_invalid_new_records_leave_indexes_unchanged (__main__.TestInventoryManager.test_invalid_new_records_leave_indexes_unchanged) ... ok
+test_invalid_price_preserves_index (__main__.TestInventoryManager.test_invalid_price_preserves_index) ... ok
+test_invalid_quantity_preserves_record (__main__.TestInventoryManager.test_invalid_quantity_preserves_record) ... ok
+test_invalid_threshold (__main__.TestInventoryManager.test_invalid_threshold) ... ok
+test_low_stock_threshold_and_repeat (__main__.TestInventoryManager.test_low_stock_threshold_and_repeat) ... ok
+test_missing_update_and_delete (__main__.TestInventoryManager.test_missing_update_and_delete) ... ok
+test_price_update (__main__.TestInventoryManager.test_price_update) ... ok
+test_quantity_revisions (__main__.TestInventoryManager.test_quantity_revisions) ... ok
+test_remove_and_reuse_sku (__main__.TestInventoryManager.test_remove_and_reuse_sku) ... ok
+test_seeded_sequence_matches_reference (__main__.TestInventoryManager.test_seeded_sequence_matches_reference)
+Check 200 mixed operations against a simple reference dictionary. ... ok
+test_empty_heap (__main__.TestMinHeap.test_empty_heap) ... ok
+test_order_with_duplicates (__main__.TestMinHeap.test_order_with_duplicates) ... ok
+test_seeded_random_order (__main__.TestMinHeap.test_seeded_random_order) ... ok
+test_delete_and_duplicate (__main__.TestPriceIndex.test_delete_and_duplicate) ... ok
+test_empty_results (__main__.TestPriceIndex.test_empty_results) ... ok
+test_inclusive_bounds_and_ties (__main__.TestPriceIndex.test_inclusive_bounds_and_ties) ... ok
+test_invalid_ranges (__main__.TestPriceIndex.test_invalid_ranges) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.014s
+
+OK
