@@ -1,0 +1,3 @@
+version,active_50k_kib,after_90pct_delete_kib,heap_entries_at_50k,buckets_at_50k,buckets_after_delete
+Phase 2 Proof of Concept,35831.0,12481.7,90000,131072,131072
+Phase 3 Optimized,25223.0,6081.0,50000,131072,16384
